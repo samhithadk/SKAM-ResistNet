@@ -48,9 +48,8 @@ Core packages used:
 See requirements.txt for the full list.
 
 ---
-
-## Dataset
-Source: [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp)
+**Dataset**  
+[BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp)  
 [Google Drive Dataset Link](https://drive.google.com/drive/folders/1vC7mmuokrbXQBr_wZezRtIUhyScAy_1w?usp=sharing)
 ---
 
