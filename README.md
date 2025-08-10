@@ -37,16 +37,14 @@ This project was developed for the **HackNation Global AI Hackathon** by Team **
 
 ## Dependencies
 Core packages used:
-pandas
-numpy
-matplotlib
-torch
-rdkit
-gradio
-scikit-learn
-xgboost
-transformers
-requests
+- pandas
+- numpy
+- matplotlib
+- torch
+- gradio
+- scikit-learn
+- xgboost
+- transformers
 See requirements.txt for the full list.
 
 ---
@@ -54,12 +52,6 @@ See requirements.txt for the full list.
 ## Dataset
 Source: [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp)
 [Google Drive Dataset Link](https://drive.google.com/drive/folders/1vC7mmuokrbXQBr_wZezRtIUhyScAy_1w?usp=sharing)
-Organization in Google Drive:
-dataset/
-  raw/bindingdb_tem1_raw.csv        # Raw BindingDB export
-  processed/tem1_clean.csv          # Cleaned dataset used for model training
-  README.txt                        # Describes columns and preprocessing
-
 ---
 
 ## Team SKAM
